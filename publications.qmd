@@ -1,7 +1,6 @@
 ---
 title: "Publications"
-page-layout: full
-title-block-banner: "#004152"
+title-block-banner: "#2B3450"
 ---
 
 ## Scientific publications

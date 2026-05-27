@@ -1,19 +1,11 @@
 ---
 title: "About me"
-title-block-banner: "#004152"
-image: profile.jpg
-links:
-    - icon: github
-      href: https://github.com/ek-ku
-    - text: "{{< iconify fa6-brands bluesky >}}"
-      href: https://bsky.app/profile/evelinekiki.bsky.social
-    - icon: linkedin
-      href: https://linkedin.com/in/ekkuijjer
-    - text: "{{< iconify academicons academia-square >}}"
-      href: https://soton.academia.edu/EvelineKikiKuijjer
+title-block-banner: "#2B3450"
 ---
 
-I’m Kiki Kuijjer, 
+![](files/profile.webp){width=250px .rounded-circle}
+
+I’m Kiki Kuijjer,
 
 I help people and organisations connect audiences with research, collections, and cultural heritage through digital tools and communication.
 

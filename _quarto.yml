@@ -15,7 +15,7 @@ website:
       - text: Blog
         href: blog.html
       - text: About me
-        href: about.html
+        href: about-me.html
       - text: Publications
         href: publications.html
       - text: Conference hashtags on Bluesky

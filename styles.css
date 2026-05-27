@@ -1,33 +1,45 @@
 /* css styles */
-
-
-
 .navbar, .navbar-nav {
-    background-color: #002b36 !important;  /* navigation bar */
-  }
+    background-color: #2B3450 !important;
+}
+
+.navbar a:hover,
+.navbar-nav .nav-link:hover {
+    color: #E6A0AA !important;
+}
+
+.quarto-title-banner,
+#title-block-header {
+    background: linear-gradient(90deg, #2B3450 0%, #544A6B 45%, #6C91A6 100%) !important;
+    color: white !important;
+    padding-bottom: 1rem !important;
+}
+
 
 a {
-    color: #1E8574; /* link colour */
-  }
+    color: #6657A3;
+    text-decoration: underline;
+}
 
-  a:hover {
-    color: #E02D00; /* link hover colour */
-  }
+a:hover {
+    color: #A94F5F;
+}
 
-  body {
-    color: #002b36;  /* main body text colour */
-  }
+body {
+    color: #2B2D42;
+}
 
-  /*Buttons*/
+/* Buttons */
 .btn-primary {
-    background-color: #002b36 !important; /* Primary button */
-    border: 2px solid #002b36 !important;
+    background-color: #2B3450 !important;
+    border: 2px solid #2B3450 !important;
     color: white !important;
 }
 
 .btn-primary:hover {
-    background-color: #1E8574 !important; /* Button hover effect */
-    border: 2px solid #1E8574 !important;
+    background-color: #A94F5F !important;
+    border-color: #A94F5F !important;
+    color: white !important;
 }
 
 .btn-primary:focus, /* Remove focus / active glow */
