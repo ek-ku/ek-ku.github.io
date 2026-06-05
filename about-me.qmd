@@ -5,15 +5,13 @@ title-block-banner: "#2B3450"
 
 ![](files/profile.webp){width=250px .rounded-circle}
 
-I’m Kiki Kuijjer,
+I’m Kiki Kuijjer, I’m Kiki Kuijjer, a digital scholarship practitioner, researcher and communicator with interests spanning cultural heritage, ocean sustainability and public engagement.
 
-I help people and organisations connect audiences with research, collections, and cultural heritage through digital tools and communication.
+My background is interdisciplinary, combining archaeology with methods drawn from the ocean sciences. Since completing my PhD at the University of Southampton, I have worked across research, higher education, digital scholarship and international heritage networks.
 
-I work in [Digital Scholarship](https://library.soton.ac.uk/digital-scholarship) at the University of Southampton, focusing on 2D digitisation and helping people connect with library collections. I also manage digital engagement for the [Ocean Decade Heritage Network](https://www.oceandecadeheritage.org/), supporting efforts to better integrate ocean heritage into the [UN Ocean Decade](https://oceandecade.org/).
+I currently work in [Digital Scholarship](https://library.soton.ac.uk/digital-scholarship) at the University of Southampton, where I support digitisation workflows, specialist equipment use, digital scholarship services and processes that help make research and teaching materials more accessible and reusable. I also manage digital engagement for the [Ocean Decade Heritage Network](https://www.oceandecadeheritage.org/), helping to strengthen connections between cultural heritage, ocean science and sustainability within the [UN Ocean Decade](https://oceandecade.org/).
 
-As a freelancer, I offer consultancy, social media support, website management, and science communication services.
+Through my work, I am particularly interested in how digital tools can make research, collections and knowledge more accessible, and in how different communities and knowledge systems can contribute to creating a more inclusive and sustainable future.
 
-On my [blog](https://ek-ku.github.io/blog/blog.html), I write about digital tools, research communication, and the intersections between culture, science, and the sea.
-
-[Download CV](files/CV_EKKUIJJER.pdf){.btn .btn-primary .cta-btn}
+On this website you'll find information about my projects, blog posts on digital scholarship and ocean heritage, and occasional reflections on the intersections between culture, science and the sea.
 
