@@ -8,6 +8,8 @@ plugins:
 website:
   title: "Kiki Kuijjer"
 
+  
+
   navbar:
     left:
       - text: Home
@@ -36,6 +38,7 @@ format:
     theme: flat
     css: styles.css
 
+cname: www.kikikuijjer.com
 
 
 
