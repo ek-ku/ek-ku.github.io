@@ -5,7 +5,7 @@ title-block-banner: "#2B3450"
 
 ![](files/profile.webp){width=250px .rounded-circle}
 
-I’m Kiki Kuijjer, I’m Kiki Kuijjer, a digital scholarship practitioner, researcher and communicator with interests spanning cultural heritage, ocean sustainability and public engagement.
+I’m Kiki Kuijjer, a digital scholarship practitioner, researcher and communicator with interests spanning cultural heritage, ocean sustainability and public engagement.
 
 My background is interdisciplinary, combining archaeology with methods drawn from the ocean sciences. Since completing my PhD at the University of Southampton, I have worked across research, higher education, digital scholarship and international heritage networks.
 
