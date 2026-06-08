@@ -1,11 +1,11 @@
 ---
 title: "Submerged Worlds at the University of Southampton Summer Art Exhibition"
 date: "2026-06-03"
-image: nocs-ekk-2017.jpg
+image: submerged-worlds.jpg
 categories: [ODHN]
 ---
 
-![](nocs-ekk-2017.jpg)
+![](submerged-worlds.jpg)
 
 I'm delighted to share that my work *Submerged Worlds* is currently on display as part of the University of Southampton Summer Art Exhibition, *Exploration: Beyond Boundaries*, running from 3 June to 30 August 2026 in the Level 4 Gallery at Hartley Library.
 
