@@ -1,5 +1,5 @@
 ---
-title: "Can You Hold a Dataset in Your Hands?"
+title: "Data physicalisation: can you hold a dataset in your hands?"
 date: "2026-06-08"
 image: globe_4_holding_globe_600x600.jpg
 categories: [3D printing, art]
@@ -7,7 +7,7 @@ categories: [3D printing, art]
 
 ![](globe_4_holding_globe_600x600.jpg)
 
-At first glance, that might sound like a strange question. For me, though, it grew out of a longer interest in how we communicate spatial information and help people connect with the places represented by data. 
+Can you hold a dataset in your hands? At first glance, that might sound like a strange question. For me, though, it grew out of a longer interest in how we communicate spatial information and help people connect with the places represented by data. 
 
 During my research into early seafaring, I spent a lot of time creating maps and thinking about how to communicate complex spatial information clearly. Maps are incredibly effective tools, but I often found myself wondering how to convey something more experiential: the scale of an ocean crossing, the shape of a landscape, or a sense of connection to a place.
 
