@@ -2,7 +2,7 @@
 title: "Submerged Worlds at the University of Southampton Summer Art Exhibition"
 date: "2026-06-03"
 image: submerged-worlds.jpg
-categories: [ODHN]
+categories: [3D printing, art, ocean]
 ---
 
 ![](submerged-worlds.jpg)

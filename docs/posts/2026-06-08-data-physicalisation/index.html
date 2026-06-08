@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-06-08">
 
-<title>Blog – Kiki Kuijjer</title>
+<title>Can You Hold a Dataset in Your Hands? – Kiki Kuijjer</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,26 +27,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-46f66b053e56abd73bb6e954d61a315b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ece42c8223ec2bf36298a08f122c9a68.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-46f66b053e56abd73bb6e954d61a315b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-ece42c8223ec2bf36298a08f122c9a68.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,35 +72,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>
 
       .quarto-title-block .quarto-title-banner {
@@ -109,37 +79,8 @@ ul.task-list li input[type="checkbox"] {
       }
 </style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -149,7 +90,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Kiki Kuijjer</span>
     </a>
   </div>
@@ -160,23 +101,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about-me.html"> 
+    <a class="nav-link" href="../../about-me.html"> 
 <span class="menu-text">About me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./conference-hashtags-on-bsky.html"> 
+    <a class="nav-link" href="../../conference-hashtags-on-bsky.html"> 
 <span class="menu-text">Conference hashtags on Bluesky</span></a>
   </li>  
 </ul>
@@ -210,14 +151,24 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Blog</h1>
-                      </div>
+      <h1 class="title">Can You Hold a Dataset in Your Hands?</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">3D printing</div>
+                <div class="quarto-category">art</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 8, 2026</p>
+      </div>
+    </div>
     
       
     </div>
@@ -234,125 +185,17 @@ window.Quarto = {
 
 
 
+<p><img src="globe_4_holding_globe_600x600.jpg" class="img-fluid"></p>
+<p>A lot of the work I do involves helping people make sense of digital information, but I’m always interested in what happens when we move beyond the screen.</p>
+<p>In a new post for <a href="https://library.soton.ac.uk/digital-scholarship/inside-digital-scholarship/">Inside Digital Scholarship</a>, I explore data physicalisation by turning <a href="https://www.gebco.net/">GEBCO</a> bathymetric data into a raised-relief 3D globe. The idea sounds fairly straightforward: take a dataset and make a physical object from it. In practice, though, there are a lot of decisions, constraints, and trade-offs involved along the way.</p>
+<p>One of the things I enjoyed most about this project was the process itself. Transforming a global dataset into something that can actually be 3D printed means thinking carefully about scale, resolution, model complexity, printability, and how to preserve meaningful detail while working within the limitations of the technology. Every stage required a bit of planning, testing, and refinement.</p>
+<p>The finished globe is a tangible representation of the Earth, but for me the project was also a reminder that creating useful outputs from data often involves much more than simply processing information. Whether you’re building a visualisation, a physical model, or a digital service, there is usually a journey of defining objectives, working within constraints, solving practical problems, and iterating towards something that works.</p>
+<p>If you’re interested in digital scholarship, 3D printing, data visualisation, or just curious about what it takes to turn a dataset into a physical object, I hope you’ll find the post interesting.</p>
+<p>You can read it here: <a href="https://library.soton.ac.uk/digital-scholarship/inside-digital-scholarship/data-physicalisation-from-dataset-to-3d-globe">Data physicalisation: from dataset to 3D globe | Inside Digital Scholarship</a></p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="M0QlMjBwcmludGluZyUyQ2FydA==" data-listing-date-sort="1780873200000" data-listing-file-modified-sort="1780940565616" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="248">
-<div class="thumbnail"><a href="./posts/2026-06-08-data-physicalisation/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/2026-06-08-data-physicalisation/globe_4_holding_globe_600x600.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-06-08-data-physicalisation/index.html" class="no-external">Can You Hold a Dataset in Your Hands?</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2026-06-08-data-physicalisation/index.html" class="no-external">
-A lot of the work I do involves helping people make sense of digital information, but I’m always interested in what happens when we move beyond the screen.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-06-08-data-physicalisation/index.html" class="no-external">
-<div class="listing-date">
-Jun 8, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="M0QlMjBwcmludGluZyUyQ2FydCUyQ29jZWFu" data-listing-date-sort="1780441200000" data-listing-file-modified-sort="1780940558651" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="709">
-<div class="thumbnail"><a href="./posts/2026-06-03-submerged-worlds/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/2026-06-03-submerged-worlds/submerged-worlds.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-06-03-submerged-worlds/index.html" class="no-external">Submerged Worlds at the University of Southampton Summer Art Exhibition</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2026-06-03-submerged-worlds/index.html" class="no-external">
-I’m delighted to share that my work <em>Submerged Worlds</em> is currently on display as part of the University of Southampton Summer Art Exhibition, <em>Exploration: Beyond Boundaries</em>…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-06-03-submerged-worlds/index.html" class="no-external">
-<div class="listing-date">
-Jun 3, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="T0RITg==" data-listing-date-sort="1776380400000" data-listing-file-modified-sort="1779890588397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="102">
-<div class="thumbnail"><a href="./posts/2026-04-17-30yrs-nocs/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/2026-04-17-30yrs-nocs/nocs-ekk-2017.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-04-17-30yrs-nocs/index.html" class="no-external">30 years of NOCS: exploring ocean science through digital collections</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2026-04-17-30yrs-nocs/index.html" class="no-external">
-To mark the 30th anniversary of the National Oceanography Centre Southampton (NOCS), I wrote a short piece for the University of Southampton’s Digital Scholarship blog…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-04-17-30yrs-nocs/index.html" class="no-external">
-<div class="listing-date">
-Apr 17, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="T0RITg==" data-listing-date-sort="1770249600000" data-listing-file-modified-sort="1779834970110" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
-<div class="thumbnail"><a href="./posts/2026-02-05-ikuwa8/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/2026-02-05-ikuwa8/ikuwa8.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-02-05-ikuwa8/index.html" class="no-external">Taking Stock at IKUWA8: Underwater Cultural Heritage and the UN Ocean Decade</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2026-02-05-ikuwa8/index.html" class="no-external">
-What role can underwater archaeology play in shaping how we understand and relate to the ocean today?
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-02-05-ikuwa8/index.html" class="no-external">
-<div class="listing-date">
-Feb 5, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="bmV3cw==" data-listing-date-sort="1769904000000" data-listing-file-modified-sort="1779835271327" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="85">
-<div class="thumbnail"><a href="./posts/2026-02-05-ikuwa8/2026-02-01-welcome/index.html" class="no-external">
-
-<img loading="lazy" src="./posts/2026-02-05-ikuwa8/2026-02-01-welcome/image.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-02-05-ikuwa8/2026-02-01-welcome/index.html" class="no-external">Welcome to my blog</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2026-02-05-ikuwa8/2026-02-01-welcome/index.html" class="no-external">
-I’m starting this blog to share ideas and projects at the crossroads of digital scholarship and ocean heritage.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-02-05-ikuwa8/2026-02-01-welcome/index.html" class="no-external">
-<div class="listing-date">
-Feb 1, 2026
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

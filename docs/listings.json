@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/2026-06-08-data-physicalisation/index.html",
       "/posts/2026-06-03-submerged-worlds/index.html",
       "/posts/2026-04-17-30yrs-nocs/index.html",
       "/posts/2026-02-05-ikuwa8/index.html",
@@ -9,8 +10,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
+      "/posts/2026-06-08-data-physicalisation/index.html",
       "/posts/2026-06-03-submerged-worlds/index.html",
       "/posts/2026-04-17-30yrs-nocs/index.html",
       "/posts/2026-02-05-ikuwa8/index.html",

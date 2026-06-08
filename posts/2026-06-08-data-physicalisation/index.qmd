@@ -1,0 +1,21 @@
+---
+title: "Can You Hold a Dataset in Your Hands?"
+date: "2026-06-08"
+image: globe_4_holding_globe_600x600.jpg
+categories: [3D printing, art]
+---
+
+![](globe_4_holding_globe_600x600.jpg)
+
+A lot of the work I do involves helping people make sense of digital information, but I'm always interested in what happens when we move beyond the screen.
+
+In a new post for [Inside Digital Scholarship](https://library.soton.ac.uk/digital-scholarship/inside-digital-scholarship/), I explore data physicalisation by turning [GEBCO](https://www.gebco.net/) bathymetric data into a raised-relief 3D globe. The idea sounds fairly straightforward: take a dataset and make a physical object from it. In practice, though, there are a lot of decisions, constraints, and trade-offs involved along the way.
+
+One of the things I enjoyed most about this project was the process itself. Transforming a global dataset into something that can actually be 3D printed means thinking carefully about scale, resolution, model complexity, printability, and how to preserve meaningful detail while working within the limitations of the technology. Every stage required a bit of planning, testing, and refinement.
+
+The finished globe is a tangible representation of the Earth, but for me the project was also a reminder that creating useful outputs from data often involves much more than simply processing information. Whether you're building a visualisation, a physical model, or a digital service, there is usually a journey of defining objectives, working within constraints, solving practical problems, and iterating towards something that works.
+
+If you're interested in digital scholarship, 3D printing, data visualisation, or just curious about what it takes to turn a dataset into a physical object, I hope you'll find the post interesting.
+
+You can read it here: [Data physicalisation: from dataset to 3D globe | Inside Digital Scholarship](https://library.soton.ac.uk/digital-scholarship/inside-digital-scholarship/data-physicalisation-from-dataset-to-3d-globe)
+
