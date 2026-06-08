@@ -1,0 +1,73 @@
+/* css styles */
+.navbar, .navbar-nav {
+    background-color: #2B3450 !important;
+}
+
+.navbar a:hover,
+.navbar-nav .nav-link:hover {
+    color: #E6A0AA !important;
+}
+
+.quarto-title-banner,
+#title-block-header {
+    background: linear-gradient(90deg, #2B3450 0%, #544A6B 45%, #6C91A6 100%) !important;
+    color: white !important;
+    padding-bottom: 1rem !important;
+}
+
+
+a {
+    color: #6657A3;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #A94F5F;
+}
+
+body {
+    color: #2B2D42;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #2B3450 !important;
+    border: 2px solid #2B3450 !important;
+    color: white !important;
+}
+
+.btn-primary:hover {
+    background-color: #A94F5F !important;
+    border-color: #A94F5F !important;
+    color: white !important;
+}
+
+.btn-primary:focus, /* Remove focus / active glow */
+.btn-primary:active,
+.btn-primary.focus,
+.btn-primary:active:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.cta-btn {
+  display: inline-block;
+  min-width: 160px;
+  text-align: center;
+}
+
+/*Heading 2*/
+body h2 {
+  border-bottom: none !important;  /* remove underline */
+  font-size: 1.8rem !important;    /* increase size */
+}
+
+/*Round image*/
+.round-img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto; /* centers it */
+}
