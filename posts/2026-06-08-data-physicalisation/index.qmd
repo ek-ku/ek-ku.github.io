@@ -7,9 +7,7 @@ categories: [3D printing, art]
 
 ![](globe_4_holding_globe_600x600.jpg)
 
-Can you hold a dataset in your hands?
-
-This may sound like a strange question, but for me, it grew out of a longer interest in how we communicate spatial information and help people connect with the places represented by data. It led me to explore data physicalisation: transforming digital data into a physical object that can be seen, handled, and experienced in a new way.
+Can you hold a dataset in your hands? This may sound like a strange question, but for me, it grew out of a longer interest in how we communicate spatial information and help people connect with the places represented by data. It led me to explore data physicalisation: transforming digital data into a physical object that can be seen, handled, and experienced in a new way.
 
 In my latest post for [Inside Digital Scholarship](https://library.soton.ac.uk/digital-scholarship/inside-digital-scholarship/), I show how [GEBCO](https://www.gebco.net/) bathymetric data can be transformed into a raised-relief 3D globe. By turning digital elevation data into a physical model, the project explores how touch, shape, and scale can offer different ways of engaging with information.
 
