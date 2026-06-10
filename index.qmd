@@ -14,18 +14,17 @@ I'm Kiki 👋 I work at the intersection of digital scholarship, cultural herita
 
 I currently work in [Digital Scholarship](https://library.soton.ac.uk/digital-scholarship) at the University of Southampton, and manage digital engagement for the [Ocean Decade Heritage Network](https://www.oceandecadeheritage.org/), supporting efforts to better integrate ocean heritage into the [UN Ocean Decade](https://oceandecade.org/).
 
-Alongside this, I offer freelance consultancy in digital engagement, website management, science communication and heritage-focused projects.
+Alongside this, I offer freelance consultancy.
 
 [About me](about-me.qmd){.btn .btn-primary .cta-btn}
 
 <br>
 
-## Services
+## Consultancy Services
 
-* Freelance consultancy on digital engagement and science communication
+* Digital engagement and science communication
 * Social media strategy, content creation, and management
-* Website updates, design support, and accessibility recommendations
-* Science communication and public engagement content
+* Website management, design support, and accessibility recommendations
 
 [Get in touch](https://ek-ku.github.io/blog/blog.html){.btn .btn-primary .cta-btn}
 
